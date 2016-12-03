@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+.navbar {
+	border-radius: 0px;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.carousel-indicators li {
+	width: 20px;
+	height: 20px;
+}
+
+.carousel-indicators .active {
+	width: 20px;
+	height: 20px;
+}
+
+.footer {
+	line-height: 60px;
+	background-color: #f0f0f0;
+	position: absolute;
+	width: 100%;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.container {
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.secao {
+	padding-top: 50px;
+}
+
+.mensagem {
+	width: 97%;
+}
